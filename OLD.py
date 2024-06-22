@@ -423,7 +423,7 @@ class Main:
 		print(" [5]\033[38;5;46m2011-14 Cloning")
 		print(" [E]\033[38;5;46mExit Programming\n")
 		TALHA =input(" Choose ")
-		os.system('xdg-open https://www.facebook.com/profile.php?id=100076838078407&mibextid=ZbWKwL/')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=61554326774935&mibextid=ZbWKwL/')
 		if TALHA in ["1", "01"]:
 			File()
 		if TALHA in ["2", "02"]:
